@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuragImageProcessing", "YuragImageProcessing\YuragImageProcessing.csproj", "{5AE1E145-CC4B-40DB-9791-C1D30CF1C767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE1E145-CC4B-40DB-9791-C1D30CF1C767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE1E145-CC4B-40DB-9791-C1D30CF1C767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE1E145-CC4B-40DB-9791-C1D30CF1C767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE1E145-CC4B-40DB-9791-C1D30CF1C767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF83747-8236-4EE7-9742-DB8A6EFE1D4F}
+	EndGlobalSection
+EndGlobal
